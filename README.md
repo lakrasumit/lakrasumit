@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="git.gif" alt="Sumit" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sumit Lakra</h1>
 <h3 align="center">Turning Ideas into Reality with Code</h3>
 
