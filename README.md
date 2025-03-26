@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git (1).gif" alt="Sumit" width="100%" height="250">
+  <img src="https://media1.tenor.com/m/mIteh_Sas9QAAAAC/anime-hello.gif" alt="Sumit" width="600" height="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Lakra</h1>
