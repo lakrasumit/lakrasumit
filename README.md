@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sumitlakra56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitlakra56" height="30" width="40" /></a>
 <a href="https://kaggle.com/lakrasumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakrasumit" height="30" width="40" /></a>
-<a href="https://instagram.com/lakrasumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakrasumit" height="30" width="40" /></a>
+<a href="https://instagram.com/_sumitlakra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakrasumit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lakrasumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakrasumit" height="30" width="40" /></a>
 </p>
 
