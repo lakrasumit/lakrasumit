@@ -1,3 +1,4 @@
+<img src="wallpaperflare-cropped.jpg" alt="profile banner" width="100%" />
 # 💫 About Me:
 Still figuring myself out!
 
