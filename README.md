@@ -1,4 +1,4 @@
-<img src="wallpaperflare-cropped.jpg" alt="profile banner" width="100%" />
+<!-- <img src="wallpaperflare-cropped.jpg" alt="profile banner" width="100%" /> -->
 
 Still figuring myself out!
 
